@@ -800,11 +800,4 @@ hr.big{
 
 #video-card{
     display: flex;
-    flex-wrap: wrap;
-    justify-content: space-around;
-    margin: auto;
-}
-
-#video-card .card-video{
-    margin: 5px;
 }
