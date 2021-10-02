@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap');
+
+
+*{
+    margin:  0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+ /* variables globales */
+
+:root{
+    /* colores*/
+    --accent-color: #ff0000;
+    --grey-color: #909090;
+    --grey-color-alt: #CCC;
+    --border-color: rgba(0,0,0,0.1);
+
+    /*colores de fondo*/
+    --bg-color: #fff;
+     --bgcolor-alt: #f9f9f9;
+     --bg-color-active: #e5e5e5;
+
+     /*colores de texto*/
+
+     --text-color: #030303;
+     --text-color-alt: #606060;
+     --text-color-white: #fff;
+
+  /*tamaño de fuentes */
+     --body-font: 'Roboto' , sans-serif;
+
+}
